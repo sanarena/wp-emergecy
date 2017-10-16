@@ -7,7 +7,7 @@ All you need to use this script is to copy it in your wordpress folder via ftp a
 
 IMPORTANT NOTICE: Delete this file from your server when you have created admin password. otherwise it can be considered as a security weakness.
 
-##How to Use
+## How to Use
 Please copy wp-emergency.php in root of your wordpress installation.
 Root of your wordpress is same folder where you can find wp-config.php file.
 Then open yoursite.com/your_wordpress_instalation_path/wp-emergency.php in your browser
