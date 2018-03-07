@@ -1,5 +1,6 @@
 # wp-emergecy Admin Creator
 
+In an emergency need of help to gain back access to your WordPress admin dashboard?
 This script is created to add new admin when you forgot original admin password. 
 Or when your original admin is hacked. Or by some resoan is changed. 
 Using this code, you won't need to get your hands dirty with database stuff.
